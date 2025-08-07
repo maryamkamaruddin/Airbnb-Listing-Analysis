@@ -1,8 +1,11 @@
 # Airbnb-Listing-Analysis
 
+- About this porject : Guided Project
+- Tools : Python (Kaggle Notebook : https://www.kaggle.com/code/maryamaddin/airbnb-listing-eda)
+
+
 Project Overview
 - This project perfroms Exploratory Data Analysis (EDA) on Airbnb data to uncover trends and patterns in rental listings.
-- The analysis was done on Kaggle Notebook which can be referred here : https://www.kaggle.com/code/maryamaddin/airbnb-listing-eda
   
 Objective
 - The goals of this project is to :
