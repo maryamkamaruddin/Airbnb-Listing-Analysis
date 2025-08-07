@@ -1,7 +1,7 @@
-# New-York-Airbnb-Listing-Analysis
+# Airbnb-Listing-Analysis
 
 Project Overview
-- This project perfroms Exploratory Data Analysis (EDA) on New York Airbnb data to uncover trends and patterns in rental listings.
+- This project perfroms Exploratory Data Analysis (EDA) on Airbnb data to uncover trends and patterns in rental listings.
 - The analysis was done on Kaggle Notebook which can be referred here : https://www.kaggle.com/code/maryamaddin/airbnb-listing-eda
   
 Objective
