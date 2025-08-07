@@ -1,6 +1,6 @@
 # Airbnb-Listing-Analysis
 
-- About this porject : Guided Project
+- About this project : Guided Project
 - Tools : Python (Kaggle Notebook : https://www.kaggle.com/code/maryamaddin/airbnb-listing-eda)
 
 
